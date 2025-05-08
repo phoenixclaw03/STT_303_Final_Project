@@ -17,3 +17,8 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+Improvements from previous project:
+ - Data cleaning is now a reusable function
+ - Added clearer labels and axes
